@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line in master_file by master
+=======
+line in master_file.txt form branch kqn
+>>>>>>> kqn
